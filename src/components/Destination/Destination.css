@@ -1,0 +1,31 @@
+.destination{
+    margin-top: 100px;
+}
+.location-input{
+    background-color: gray;
+    padding: 30px;
+}
+.location-map{
+    background-color: #000;
+    padding: 30px;
+}
+.location {
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.transport{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.transport li{
+    list-style-type: none;
+}
+label{
+    color: white;
+}

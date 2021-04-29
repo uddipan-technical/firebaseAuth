@@ -1,0 +1,13 @@
+.other-login{
+    width: 350px;
+    margin: 0 auto;
+}
+.other-login button{
+    border-radius: 20px;
+}
+@media only screen and (max-width: 600px) {
+    .other-login{
+        width: 90%;
+        margin: 0 auto;
+    }
+  }

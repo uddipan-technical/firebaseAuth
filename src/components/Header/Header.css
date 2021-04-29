@@ -1,0 +1,19 @@
+.header{
+    color: #000;
+}
+.header .navbar-brand{
+    color: #000;
+    font-weight: bold;
+}
+.nav-link{
+    padding: 5px 15px !important;
+    font-weight: bold;;
+    display: flex;
+    align-items: center;
+}
+.nav-link:hover{
+    background-color: rgb(8, 8, 8);
+}
+.nav-link:hover{
+    background-color: inherit;
+}
